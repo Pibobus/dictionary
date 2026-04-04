@@ -1,0 +1,615 @@
+авіапрома авіапром noun:inanim:m:v_rod
+авіасалона авіасалон noun:inanim:m:v_rod
+автів авто noun:inanim:p:v_rod:alt
+автобана автобан noun:inanim:m:v_rod
+автомобілей автомобіль noun:p:v_rod
+аеродрома аеродром noun:inanim:m:v_rod
+аерозолей аерозоль noun:inanim:p:v_rod
+аерозоля аерозоль noun:inanim:m:v_rod
+аеропорта аеропорт noun:inanim:m:v_rod
+альманаха альманах noun:m:v_rod
+анбандлінга анбандлінг noun:inanim:m:v_rod
+анекдота анекдот noun:inanim:m:v_rod
+антивіруса антивірус noun:m:v_rod
+антидепресанта антидепресант noun:inanim:m:v_rod
+Арсенала Арсенал noun:m:v_rod:prop
+артбука артбук noun:inanim:m:v_rod
+аутсорсинга аутсорсинг noun:inanim:m:v_rod
+байопіка байопік noun:inanim:m:v_rod
+Балканів Балкани noun:p:v_rod:ns:prop:geo
+банкнотів банкнота noun:p:v_rod
+барелей барель noun:p:v_rod                 #> барелів
+Баренцова Баренцове adj:n:v_rod
+баристів бариста noun:anim:p:v_rod/v_zna
+бариша бариш noun:inanim:m:v_rod
+батальйона батальйон noun:inanim:m:v_rod
+баче бачити verb:imperf:pres:s:3                            #> бачить
+бачуть бачити verb:imperf:pres:p:3
+безвіза безвіз noun:inanim:m:v_rod
+бек-вокала бек-вокал noun:m:v_rod
+берез береза noun:inanim:p:v_rod
+Бешикташа Бешикташ noun:m:v_rod:prop
+біжуть бігти verb:imperf:pres:p:3
+бізнеса бізнес noun:m:v_rod
+біржою біржа noun:inanim:f:v_oru
+блекаута блекаут noun:m:v_rod
+блокчейна блокчейн noun:m:v_rod
+боєприпаса боєприпас noun:m:v_rod
+болгарів болгарин noun:anim:p:v_rod/v_zna   #> болгар
+Боллівуда Боллівуд noun:m:v_rod:prop        #> Боллівуду
+борзі борг noun:m:v_mis
+ботокса ботокс noun:inanim:m:v_rod
+боярів боярин noun:anim:p:v_rod/v_zna
+брелка брелок noun:m:v_rod
+брелками брелок noun:p:v_oru
+брелки брелок noun:p:v_naz
+брелків брелок noun:p:v_rod
+брелком брелок noun:m:v_oru
+брелку брелок noun:m:v_dav/v_mis
+бренда бренд noun:m:v_rod
+брехонь брехня noun:inanim:p:v_rod
+брифінга брифінг noun:inanim:m:v_rod
+броде бродити verb:imperf:pres:s:3
+Брукліна Бруклін noun:m:v_rod:prop:geo
+будинка будинок noun:m:v_rod
+бузка бузок noun:m:v_rod             #> бузку
+буков буква noun:p:v_rod
+булгарів булгари noun:anim:p:v_rod/v_zna:ns
+булінга булінг noun:inanim:m:v_rod
+бюлетні бюлетень noun:inanim:m:v_naz/v_zna/v_mis
+бюлетнів бюлетень noun:inanim:p:v_rod
+бюрків бюрко noun:inanim:p:v_rod:arch
+вагів ваги noun:p:v_rod:ns
+вантажа вантаж noun:inanim:m:v_rod
+вантів ванта noun:inanim:p:v_rod             #> вант
+вапняка вапняк noun:inanim:m:v_rod
+варяг варяг noun:anim:p:v_zna/v_rod
+вводе вводити verb:imperf:pres:s:3
+вдаре вдарити verb:perf:futr:s:3
+вебсайта вебсайт noun:m:v_rod:up19
+веб-сайта веб-сайт noun:m:v_rod:up92
+верлібра верлібр noun:inanim:m:v_rod
+виборок вибірка noun:p:v_rod                #> вибірок
+вибудовано вибудувати verb:perf:impers      #> вибудувано
+вибухла вибухнути verb:perf:past:f          #> вибухнула
+вибухли вибухнути verb:perf:past:p          #> вибухнули
+вибухло вибухнути verb:perf:past:n          #> вибухнуло
+вивісіть вивісити verb:perf:impr:p:2
+вигаптовано вигаптувати verb:perf:impers
+виглянсовано виглянсувати verb:perf:impers
+виготовіть виготовити verb:perf:impr:p:2
+видасиш видати verb:perf:futr:s:2
+видовжіть видовжити verb:perf:impr:p:2
+видруковано видрукувати verb:perf:impers    #> видрукувано
+вижий вижити verb:perf:impr:s:2             #> виживи
+викарбовано викарбувати verb:perf:impers        #> викарбувано
+викиніть викинути verb:perf:impr:p:2
+виколядовано виколядувати verb:perf:impers
+викомпоновано викомпонувати verb:perf:impers
+вилазе вилазити verb:imperf:pres:s:3
+вимажіть вимазати verb:perf:impr:p:2
+вимовіть вимовити verb:perf:impr:p:2
+вимудровано вимудрувати verb:perf:impers
+вимуштровано вимуштрувати verb:perf:impers
+виносе виносити verb:imperf:pres:s:3                    # :xp1
+виокреміть виокремити verb:perf:impr:p:2
+випадка випадок noun:inanim:m:v_rod
+випале випалити verb:perf:futr:s:3
+випаріть випарити verb:perf:impr:p:2
+виполіровано виполірувати verb:perf:impers
+випомповано випомпувати verb:perf:impers
+виправіть виправити verb:perf:impr:p:2
+випробовано випробувати verb:perf:impers        # :xp2
+випряг випрягти verb:perf:past:m                                                    #> випріг
+вираховано вирахувати verb:perf:impers
+вирихтовано вирихтувати verb:perf:impers
+виріжіть вирізати verb:perf:impr:p:2
+вирушіть вирушити verb:perf:impr:p:2
+вирятовано вирятувати verb:perf:impers
+виставіть виставити verb:perf:impr:p:2
+вистреліть вистрелити verb:perf:impr:p:2
+витлумачіть витлумачити verb:perf:impr:p:2
+виторговано виторгувати verb:perf:impers
+витратіть витратити verb:perf:impr:p:2
+виходе виходити verb:imperf:pres:s:3:insert            # :xp2
+вихорем вихор noun:inanim:m:v_oru:xp1
+вівць вівця noun:anim:p:v_rod/v_zna                         #> овець
+віддасиш віддати verb:perf:futr:s:2
+відеоблога відеоблог noun:m:v_rod
+відмір відміряти verb:perf:impr:s:2
+відмітіть відмітити verb:perf:impr:p:2
+відповідіть відповісти verb:perf:impr:p:2
+відповісиш відповісти verb:perf:futr:s:2
+вінішко /n2n
+віруса вірус noun:m:v_rod
+вносіть вносити verb:imperf:impr:p:2
+воде водити verb:imperf:pres:s:3
+восьмиста вісімсот numr:p:v_rod             #> восьмисот
+восьмистами вісімсот numr:p:v_oru           #> вісьмомастами
+впадь впасти verb:perf:impr:s:2:xp2
+всипе засипати verb:perf:futr:s:3
+всипемо засипати verb:perf:futr:p:1
+всипете засипати verb:perf:futr:p:2
+встеле встелити verb:perf:futr:s:3
+вступе вступити verb:perf:futr:s:3
+вуглепластика вуглепластик noun:m:v_rod
+вушима вухо noun:inanim:p:v_oru
+вушці вушко noun:n:v_mis
+входе входити verb:imperf:pres:s:3
+Газпрома Газпром noun:m:v_rod:prop
+генома геном noun:m:v_rod
+глаголе глаголити verb:imperf:pres:s:3
+глазуррю глазур noun:f:v_oru
+говоре говорити verb:imperf:pres:s:3
+Голлівуда Голлівуд noun:m:v_rod:prop:geo    #> Голлівуду
+гомоне гомоніти verb:imperf:pres:s:3
+гончара гончар noun:anim:m:v_rod/v_zna
+гормона гормон noun:m:v_rod                 #> гормону
+города город noun:m:v_rod
+госпіталя госпіталь noun:m:v_rod            #> госпіталю
+гостела гостел noun:m:v_rod
+графена графен noun:m:v_rod
+гривнів гривня noun:p:v_rod
+грісі гріх noun:m:v_mis
+гроба гроб noun:inanim:m:v_rod
+громадянини громадянин noun:anim:p:v_naz/v_kly  #> громадяни
+грудима груди noun:p:v_oru
+гугла гугл noun:m:v_rod                     #> гуглу
+гуртожитка гуртожиток noun:m:v_rod
+ґаздів ґазда noun:anim:p:v_rod/v_zna
+ґратів ґрати noun:p:v_rod:ns
+дасиш дати verb:perf:futr:s:2
+держсектора держсектор noun:m:v_rod
+деталів деталь noun:inanim:p:v_rod
+дзвоне дзвонити verb:imperf:pres:s:3
+дивові диво noun:n:v_dav/v_mis
+діалога діалог noun:m:v_rod
+дівчатьми дівчина noun:anim:p:v_oru
+доводе доводити verb:imperf:pres:s:3
+доводіть доводити verb:imperf:impr:p:2
+додаш додати verb:perf:futr:s:2             #> додаси
+дописа допис noun:m:v_rod
+досвітка досвіток noun:m:v_rod
+дотепа дотеп noun:m:v_rod
+доходе доходити verb:imperf:pres:s:3                    # :xp1
+дошок дошка noun:p:v_rod                    #> дощок
+дощика дощик noun:m:v_rod
+древків древко noun:inanim:p:v_rod:bad
+дрів дрова noun:p:v_rod:ns
+дрозофілів дрозофіла noun:anim:p:v_rod/v_zna
+дубняка дубняк noun:m:v_rod
+дуре дурити verb:imperf:pres:s:3
+дядечок дядечко noun:anim:p:v_rod
+Ельбруса Ельбрус noun:m:v_rod:prop:geo
+Енергоатома Енергоатом noun:m:v_rod:prop
+енергосектора енергосектор noun:m:v_rod
+епіцентра епіцентр noun:m:v_rod
+єврохостела єврохостел noun:m:v_rod
+єдин єдиний adj:m:v_naz/v_zn2
+жиєш жити verb:imperf:pres:s:2
+жлуктіть жлуктити verb:imperf:impr:p:2
+жовтецю жовтець noun:m:v_rod
+жреці жрець noun:anim:p:v_naz
+жреців жрець noun:anim:p:v_rod/v_zna
+журнала журнал noun:inanim:m:v_rod
+забезпечіть забезпечити verb:perf:impr:p:2
+завісів завіса noun:inanim:p:v_rod
+завісіть завісити verb:perf:impr:p:2
+завіта завіт noun:inanim:m:v_rod
+заводе заводити verb:imperf:pres:s:3
+заїдів заїда noun:p:v_rod
+зайдів зайда noun:anim:p:v_rod
+законопроекта законопроект noun:m:v_rod:up92
+законопроєкта законопроєкт noun:m:v_rod:up19
+закруте закрутити verb:perf:futr:s:3
+залишка залишок noun:inanim:m:v_rod
+залишуть залишити verb:perf:futr:p:3            #> залишать
+залишуться залишитися verb:rev:perf:futr:p:3    #> залишаться
+залліть залляти verb:perf:impr:p:2
+замасі замах noun:m:v_mis
+заморе заморити verb:perf:futr:s:3
+заникла заникнути verb:perf:past:f
+заникли заникнути verb:perf:past:p
+заникло заникнути verb:perf:past:n
+заникн заникнути verb:perf:past:m
+зануріть занурити verb:perf:impr:p:2
+заняттів заняття noun:inanim:p:v_rod
+заплющіть заплющити verb:perf:impr:p:2
+заповіта заповіт noun:m:v_zna
+заробе заробити verb:perf:futr:s:3
+заростів зарість noun:p:v_rod
+засвідчіть засвідчити verb:perf:impr:p:2    #> засвідчте
+засиліть засилити verb:perf:impr:p:2
+засипе засипати verb:perf:futr:s:3
+засипемо засипати verb:perf:futr:p:1
+засипемось засипатися verb:rev:perf:futr:p:1
+засипемося засипатися verb:rev:perf:futr:p:1
+засипете засипати verb:perf:futr:p:2
+засипетесь засипатися verb:rev:perf:futr:p:2
+засипетеся засипатися verb:rev:perf:futr:p:2
+засипеться засипатися verb:rev:perf:futr:s:3
+засиплять засипати verb:perf:futr:p:3        # :xp2
+заскоче заскочити verb:perf:futr:s:3
+заскочіть заскочити verb:perf:impr:p:2
+засновка засновок noun:m:v_rod
+заспокійся заспокоїтися verb:rev:perf:impr:s:2
+заспокійте заспокоїти verb:perf:impr:p:2
+заспокійтеся заспокоїтися verb:rev:perf:impr:p:2
+засре засрати verb:perf:futr:s:3:vulg
+засрем засрати verb:perf:futr:p:1:vulg
+засремо засрати verb:perf:futr:p:1:vulg
+засри засрати verb:perf:impr:s:2:vulg
+засру засрати verb:perf:futr:s:1:vulg
+засруть засрати verb:perf:futr:p:3:vulg
+засруться засратися verb:rev:perf:futr:p:3:vulg
+заставе заставити verb:perf:futr:s:3
+застреліть застрелити verb:perf:impr:p:2
+заходе заходити verb:imperf:pres:s:3                    # :xp1
+заходіть заходити verb:imperf:impr:p:2
+захотять захотіти verb:perf:futr:p:3
+зачепе зачепити verb:perf:futr:s:3
+зачине зачинити verb:perf:futr:s:3
+зачистіть зачистити verb:perf:impr:p:2
+зашквара зашквар noun:inanim:m:v_rod:slang
+зашморга зашморг noun:m:v_rod
+збільшіть збільшити verb:perf:impr:p:2      #> збільште
+зваре зварити verb:perf:futr:s:3
+звірми звір noun:anim:p:v_oru               #> звірами
+звірями звір noun:anim:p:v_oru              #> звірами
+зводе зводити verb:imperf:pres:s:3
+згоне згонити verb:perf:futr:s:3
+здасиш здати verb:perf:futr:s:2
+зілліть злити verb:perf:impr:p:2
+з'їсиш з'їсти verb:perf:futr:s:2
+зменшіть зменшити verb:perf:impr:p:2        #> зменште
+зморщіть зморщити verb:perf:impr:p:2
+змусіть змусити verb:perf:impr:p:2
+знеструміть знеструмити verb:perf:impr:p:2
+знизіть знизити verb:perf:impr:p:2
+знівечіть знівечити verb:perf:impr:p:2
+зносе зносити verb:imperf:pres:s:3                    # :xp1
+зробе зробити verb:perf:futr:s:3
+зупине зупинити verb:perf:futr:s:3
+зчистіть зчистити verb:perf:impr:p:2
+Ігора Ігор noun:anim:m:v_rod/v_zna:prop:fname
+Ігоре Ігор noun:anim:m:v_kly:prop:fname
+ізолята ізолят noun:m:v_rod
+ікли ікло noun:p:v_naz/v_zna
+Іллє Ілля noun:anim:m:v_kly:prop:fname
+Іллєю Ілля noun:anim:m:v_oru:prop:fname
+імбирем імбир noun:m:v_oru
+інвентаря інвентар noun:m:v_rod          # р.в. архаїчного значення — список
+індекса індекс noun:m:v_rod
+Інтера Інтер noun:inanim:m:v_rod:prop
+Ірпіні Ірпінь noun:inanim:m:v_mis:prop:geo
+іспита іспит noun:m:v_rod
+їдж їсти verb:imperf:impr:s:2
+їжою їжа noun:inanim:f:v_oru
+їздіть їздити verb:imperf:impr:p:2
+їсиш їсти verb:imperf:pres:s:2
+кабеля кабель noun:m:v_rod
+канікулів канікули noun:p:v_rod:ns
+капле капати verb:imperf:pres:s:3
+каталога каталог noun:m:v_rod
+кахелем кахель noun:m:v_oru
+керамограніта керамограніт noun:m:v_rod
+Київа Київ noun:m:v_rod:prop:geo
+Київі Київ noun:m:v_dav/v_mis:prop:geo
+Китая Китай noun:m:v_rod:prop:geo           #> Китаю
+кіоска кіоск noun:m:v_rod
+кітла котел noun:m:v_rod
+кітлом котел noun:m:v_oru
+клавішів клавіша noun:p:v_rod
+ковіда ковід noun:m:v_rod
+кольор колір noun:m:v_naz/v_zna
+колять колоти verb:imperf:pres:p:3
+консерв консерва noun:p:v_rod
+контура контур noun:m:v_rod                     #> контуру
+Кончі-Заспи Конча-Заспа noun:f:v_rod:prop:geo
+Кончі-Заспі Конча-Заспа noun:f:v_mis:prop:geo
+Кончу-Заспу Конча-Заспа noun:f:v_zna:prop:geo
+кооператива кооператив noun:m:v_rod
+коридора коридор noun:inanim:m:v_rod
+коронавіруса коронавірус noun:m:v_rod
+корчіть корчити verb:imperf:impr:p:2
+костела костел noun:m:v_rod
+костьола костьол noun:inanim:m:v_rod
+кпинів кпини noun:p:v_rod:ns
+кривдіть кривдити verb:imperf:impr:p:2
+криля криль noun:inanim:m:v_rod
+Крима Крим noun:m:v_rod:prop:geo
+критерія критерій noun:m:v_rod
+крише кришити verb:imperf:pres:s:3
+крокв кроква noun:inanim:p:v_rod
+кулачиськи кулачисько noun:p:v_naz/v_zna
+кулішем куліш noun:m:v_oru           #> кулешем
+кулішу куліш noun:m:v_rod/v_dav/v_mis
+Курил Курили noun:p:v_rod:ns:prop:geo
+куріня курінь noun:m:v_rod
+курями кури noun:anim:p:v_oru:ns
+лабет лабети noun:p:v_rod:ns
+Лазара Лазар noun:anim:m:v_rod/v_zna:prop:fname
+ледаре ледар noun:m:v_kly:anim              #> ледарю
+леду лід noun:m:v_rod/v_dav/v_mis
+лежучи лежачи advp:imperf
+лейкопластирем лейкопластир noun:m:v_oru
+лівшів лівша noun:anim:p:v_rod/v_zna
+лове ловити verb:imperf:pres:s:3
+локдауна локдаун noun:m:v_rod
+ломе ломити verb:imperf:pres:s:3
+маєтка маєток noun:m:v_rod
+майоріють майоріти verb:imperf:pres:p:3     #> майорять
+Мангеттена Мангеттен noun:m:v_rod:prop:geo
+Манхеттена Манхеттен noun:m:v_rod:prop:geo
+Марусе Маруся noun:anim:f:v_kly:prop:fname      #> Марусю
+Массачусетса Массачусетс noun:m:v_rod:prop:geo
+машіть махати verb:imperf:impr:p:2
+медалів медаль noun:p:v_rod
+мема мем noun:m:v_rod
+метадона метадон noun:m:v_rod
+метода метод noun:m:v_rod
+Миколаїва Миколаїв noun:m:v_rod:prop:geo
+миса мис noun:inanim:m:v_rod
+міометрія міометрій noun:m:v_rod
+Мірчи Мірча noun:anim:m:v_rod/v_dav/v_mis:prop:fname       #> Мірчі
+мні я noun:anim:s:v_dav:pron:pers:1
+могорича могорич noun:m:v_rod
+моделів модель noun:p:v_rod                 #> моделей
+МОЗУ МОЗ noun:n:v_rod/v_dav:prop:abbr   # lim    #> МОЗу
+молебня молебень noun:m:v_rod
+молитв молитва noun:p:v_rod
+молодняка молодняк noun:m:v_rod             #> молодняку
+моніторинга моніторинг noun:m:v_rod
+мораторія мораторій noun:m:v_rod
+мудили мудило noun:p:v_naz:anim
+музиків музика noun:anim:p:v_rod/v_zna      #> музик
+мусе мусити verb:imperf:pres:s:3
+набата набат noun:m:v_rod
+наводіть наводити verb:imperf:impr:p:2
+надрів надра noun:p:v_rod:ns
+назов назва noun:p:v_rod
+назовіть назвати verb:perf:impr:p:2
+наїсишся наїстися verb:rev:perf:futr:s:2
+налагодіть налагодити verb:perf:impr:p:2
+наріччів наріччя noun:p:v_rod                       #> наріч
+насипе засипати verb:perf:futr:s:3
+насипемо засипати verb:perf:futr:p:1
+насипете засипати verb:perf:futr:p:2
+насипеться засипатися verb:rev:perf:futr:s:3
+наскіке noninfl
+наструнчіть наструнчити verb:perf:impr:p:2
+непотрібен непотрібний adj:m:v_naz:short:predic    #> не потрібен
+несамовитіє несамовитіти verb:imperf:pres:s:3
+нишпоріть нишпорити verb:imperf:impr:p:2
+нівечіть нівечити verb:imperf:impr:p:2
+ніздер ніздря noun:inanim:p:v_rod
+носе носити verb:imperf:pres:s:3
+ношів ноші noun:p:v_rod:ns
+обіда обід noun:inanim:m:v_rod:xp2
+обійм обійми noun:p:v_rod:ns                        #> обіймів
+обнишпоріть обнишпорити verb:perf:impr:p:2
+обчистіть обчистити verb:perf:impr:p:2
+овоча овоч noun:m:v_rod
+оддасиш оддати verb:perf:futr:s:2
+одержіть одержати verb:perf:impr:p:2
+одходе одходити verb:imperf:pres:s:3:arch
+одходе одходити verb:perf:futr:s:3:arch
+озвучіть озвучити verb:perf:impr:p:2
+озьмеш взяти verb:perf:futr:s:2
+омікрона омікрон noun:m:v_rod
+опусте опустити verb:perf:futr:s:3
+освідчіть освідчити verb:perf:impr:p:2
+осередка осередок noun:m:v_rod
+оскаржіть оскаржити verb:perf:impr:p:2
+офсайда офсайд noun:m:v_rod
+оцеті оцет noun:m:v_mis
+оцетові оцет noun:m:v_dav/v_mis
+оцетом оцет noun:m:v_oru
+оцету оцет noun:m:v_rod/v_dav/v_mis
+очисьок очисько noun:inanim:p:v_rod:ns
+очіх око noun:inanim:p:v_mis
+очків очко noun:p:v_rod:xp2
+падли падло noun:anim:p:v_naz
+пале палити verb:imperf:pres:s:3
+пампушків пампушка noun:p:v_rod
+паннів панна noun:anim:p:v_rod/v_zna
+панталонів панталони noun:p:v_rod:ns          #> панталон
+панчох панчоха noun:p:v_rod
+параліча параліч noun:inanim:m:v_rod
+паркінга паркінг noun:inanim:m:v_rod
+парфума парфум noun:inanim:m:v_rod
+пасмів пасмо noun:p:v_rod
+патерна патерн noun:inanim:m:v_rod
+переводе переводити verb:imperf:pres:s:3
+передасиш передати verb:perf:futr:s:2
+переймів перейма noun:p:v_rod
+перекупе перекупити verb:perf:futr:s:3
+перел перл noun:p:v_rod
+перепине перепинити verb:perf:futr:s:3
+пересипе засипати verb:perf:futr:s:3
+пересипемо засипати verb:perf:futr:p:1
+пересипете засипати verb:perf:futr:p:2
+пересипеться засипатися verb:rev:perf:futr:s:3
+переходе переходити verb:imperf:pres:s:3                # :xp1
+переходіть переходити verb:imperf:impr:p:2
+періодонта періодонт noun:m:v_rod
+пестіть пестити verb:imperf:impr:p:2
+півчайної півчайної adj:f:v_rod             #> пів чайної
+підвечірка підвечірок noun:m:v_rod
+підвищіть підвищити verb:perf:impr:p:2
+підвод підвода noun:p:v_rod                  #> підвід
+підводе підводити verb:imperf:pres:s:3
+піддержіть піддержати verb:perf:impr:p:2
+підков підкова noun:p:v_rod
+підносіть підносити verb:imperf:impr:p:2
+підходе підходити verb:imperf:pres:s:3
+підчистіть підчистити verb:perf:impr:p:2
+пісковика пісковик noun:m:v_rod
+піт-стопа піт-стоп noun:m:v_rod             #> піт-стопу
+плавле пливти verb:imperf:pres:s:3
+плагіна плагін noun:m:v_rod
+пластирем пластир noun:m:v_oru
+плате платити verb:imperf:pres:s:3
+плечами плече noun:inanim:p:v_oru
+плечми плече noun:inanim:p:v_oru
+плічми плече noun:inanim:p:v_oru
+побаче побачити verb:perf:futr:s:3                          #> побачить
+побіле побілити verb:perf:futr:s:3
+поверха поверх noun:m:v_rod
+повідоміть повідомити verb:perf:impr:p:2
+погордіть погордити verb:perf:impr:p:2:arch
+подасиш подати verb:perf:futr:s:2
+подорожів подорож noun:inanim:p:v_rod
+поїздіть поїздити verb:perf:impr:p:2
+поїсиш поїсти verb:perf:futr:s:2
+покращіть покращити verb:perf:impr:p:2
+полагодіть полагодити verb:perf:impr:p:2
+полігона полігон noun:m:v_rod
+Польщо Польща noun:inanim:f:v_kly:prop:geo
+попадей попадя noun:anim:p:v_rod/v_zna
+попусте попустити verb:perf:futr:s:3
+посаде посадити verb:perf:futr:s:3
+посипляться посипатися verb:rev:perf:futr:p:3    # :xp2
+послусі послух noun:m:v_mis
+поставе поставити verb:perf:futr:s:3
+постеле постелити verb:perf:futr:s:3
+посуде посудити verb:perf:futr:s:3
+потенціала потенціал noun:inanim:m:v_rod
+пофрілансіть пофрілансити verb:perf:impr:p:2
+прекурсора прекурсор noun:inanim:m:v_rod
+Привата Приват noun:m:v_rod:prop:coll
+приводе приводити verb:imperf:pres:s:3
+призначіть призначити verb:perf:impr:p:2
+прикусе прикусити verb:perf:futr:s:3
+приносе приносити verb:imperf:pres:s:3
+приносіть приносити verb:imperf:impr:p:2
+припине припинити verb:perf:futr:s:3
+прискоріть прискорити verb:perf:impr:p:2
+пристрастів пристрасть noun:p:v_rod         #> пристрастей
+приходе приходити verb:imperf:pres:s:3
+приходіть приходити verb:imperf:impr:p:2
+пришпильте пришпилити verb:perf:impr:p:2    #> пришпиліть
+проводе проводити verb:imperf:pres:s:3
+продасиш продати verb:perf:futr:s:2
+проекта проект noun:m:v_rod:up92
+проєкта проєкт noun:m:v_rod:up19
+промисл промисел noun:m:v_naz/v_zna
+прополосніть прополоскати verb:perf:impr:p:2
+протестіть протестити verb:perf:impr:p:2:slang
+профіля профіль noun:m:v_rod
+проходе проходити verb:imperf:pres:s:3                # :xp1
+псевдів псевдо noun:inanim:p:v_rod:alt
+пункта пункт noun:m:v_rod
+Путінові Путін noun:anim:m:v_dav/v_mis:prop:lname
+п'ятидесяти п'ятдесят numr:p:v_rod/v_dav/v_mis
+п'ятиста п'ятсот numr:p:v_rod               #> п'ятисот
+ратушою ратуша noun:f:v_oru          #> ратушею
+реєстра реєстр noun:m:v_rod
+рейтинзі рейтинг noun:m:v_mis
+репостіть репостити verb:imperf:impr:p:2
+ретвітіть ретвітити verb:imperf:impr:p:2
+речима річ noun:p:v_oru
+рештків рештка noun:p:v_rod:ns              #> решток
+римара римар noun:anim:m:v_rod/v_zna
+ріпака ріпак noun:m:v_rod
+робе робити verb:imperf:pres:s:3                            #> робить
+рова рів noun:m:v_rod
+роде родити verb:imperf:pres:s:3
+розгоне розгонити verb:imperf:pres:s:3
+роздрібі роздріб noun:m:v_mis
+розкошей розкіш noun:p:v_rod         #> розкошів
+розплющіть розплющити verb:perf:impr:p:2
+розповісиш розповісти verb:perf:futr:s:2
+розсуде розсудити verb:perf:futr:s:3
+роумінзі роумінг noun:m:v_mis
+сайдинга сайдинг noun:m:v_rod
+сайта сайт noun:m:v_rod
+Самопомічі Самопоміч noun:f:v_rod/v_dav/v_mis:prop
+санаторія санаторій noun:inanim:m:v_rod
+свобід свобода noun:inanim:p:v_rod
+семиста сімсот numr:p:v_rod                 #> семисот
+сиквела сиквел noun:m:v_rod
+символа символ noun:m:v_rod
+сине син noun:m:v_kly:anim                  #> синє|сину
+сине синій adj:n:v_naz/v_zn2/v_kly
+сипляться сипатися verb:rev:imperf:pres:p:3
+скіке noninfl
+скрипта скрипт noun:m:v_rod
+слізми сльоза noun:p:v_oru
+сорома сором noun:m:v_rod
+статею стаття noun:f:v_oru
+статтей стаття noun:p:v_rod                 #> статей
+статтів стаття noun:p:v_rod          #> статей
+стежіть стежити verb:imperf:impr:p:2
+стрілів стріла noun:p:v_rod                 #> стріл
+струделі струдель noun:p:v_naz/v_zna
+струделів струдель noun:p:v_rod
+струделям струдель noun:p:v_dav
+струделями струдель noun:p:v_oru
+струделях струдель noun:p:v_mis
+суддей суддя noun:anim:p:v_rod/v_zna
+суде судити verb:imperf:pres:s:3
+Судетів Судети noun:p:v_rod:ns:prop:geo   #> Судет
+султаншо султанша noun:anim:f:v_kly
+сумнівові сумнів noun:m:v_dav/v_mis
+сурем сурма noun:p:v_rod
+суховантажа суховантаж noun:inanim:m:v_rod
+сходе сходити verb:imperf:pres:s:3                    # :xp1
+сяв сяяти verb:imperf:past:m
+татарів татарин noun:anim:p:v_rod/v_zna     #> татар
+твіттера твіттер noun:m:v_rod               #> твіттеру
+телеканала телеканал noun:m:v_rod
+тисячів тисяча noun:inanim:p:v_rod:numr
+тіктока тікток noun:m:v_rod                 #> тіктоку
+тік-тока тік-ток noun:m:v_rod                 #> тік-току
+тортурів тортура noun:inanim:p:v_rod
+Тоттенхема Тоттенхем noun:m:v_rod:prop
+трафіка трафік noun:m:v_rod
+тремтючи тремтючи advp:imperf
+тренінга тренінг noun:m:v_rod
+трьохста триста numr:p:v_rod/v_zna          #> трьохсот
+уводе уводити verb:imperf:pres:s:3
+усим увесь adj:m:v_oru/v_mis:pron:gen
+усим увесь adj:n:v_oru/v_mis:pron:gen
+усим увесь adj:p:v_dav:pron:gen
+усих увесь adj:p:v_rod/v_zn1/v_mis:pron:gen
+файла файл noun:m:v_rod
+фейлетона фейлетон noun:inanim:m:v_rod
+фейсбука фейсбук noun:m:v_rod               #> фейсбуку
+фінсектора фінсектор noun:inanim:m:v_rod
+фразеологізма фразеологізм noun:m:v_rod
+Франтішка Франтішек noun:anim:m:v_rod/v_zna:prop:lname
+Франтішком Франтішек noun:anim:m:v_oru:prop:lname
+Франтішку Франтішек noun:anim:m:v_dav/v_mis:prop:lname
+фраці фрак noun:m:v_mis                     #> фраку
+фрілансіть фрілансити verb:imperf:impr:p:2
+ф'ючерса ф'ючерс noun:m:v_rod
+хаба хаб noun:inanim:m:v_rod
+хатів хата noun:p:v_rod
+хащів хаща noun:p:v_rod
+хворіб хвороба noun:inanim:p:v_rod
+хлопчиськи хлопчисько noun:p:v_naz:anim
+ходе ходити verb:imperf:pres:s:3
+ходімте ходити verb:imperf:impr:p:1
+ходють ходити verb:imperf:pres:p:3
+хоругв хоругва noun:inanim:p:v_rod
+хоругів хоругва noun:p:v_rod
+хостела хостел noun:m:v_rod
+хотять хотіти verb:imperf:pres:p:3
+цеберків цеберко noun:inanim:p:v_rod
+циганів циган noun:anim:p:v_rod/v_zna
+цугцванзі цугцванг noun:m:v_mis
+чагарника чагарник noun:m:v_rod
+чистіть чистити verb:imperf:impr:p:2
+чоловік чоловік noun:anim:p:v_rod/v_zna
+чотирьохста чотириста numr:p:v_rod/v_zna    #> чотирьохсот
+шеклів шекель noun:p:v_rod
+шестиста шістсот numr:p:v_rod               #> шестисот
+ширіть ширити verb:imperf:impr:p:2
+шоці шок noun:m:v_mis                       #> шоку
+щелепів щелепа noun:inanim:p:v_rod
+ЮКОСа ЮКОС noun:m:v_rod:prop
+ютуба ютуб noun:m:v_rod                     #> ютубу
+яблукові яблуко noun:n:v_dav
+якийся якийсь adj:m:v_naz/v_zn2:pron:ind
+ялівця ялівець noun:m:v_rod

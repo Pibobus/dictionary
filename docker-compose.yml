@@ -1,0 +1,31 @@
+services:
+  meilisearch:
+    image: getmeili/meilisearch:v1.40.0
+    command: meilisearch --import-dump /dumps/meilisearch.dump --ignore-dump-if-db-exists
+    environment:
+      MEILI_MASTER_KEY: masterKey123
+    ports:
+      - "7700:7700"
+    volumes:
+      - ./meilisearch/meilisearch.dump:/dumps/meilisearch.dump:ro
+      - meili_data:/meili_data
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:7700/health"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+  gradio-app:
+    build: .
+    ports:
+      - "7860:7860"
+    environment:
+      MEILI_HOST: http://meilisearch:7700
+      MEILI_API_KEY: masterKey123
+      GRADIO_SERVER_NAME: "0.0.0.0"
+    depends_on:
+      meilisearch:
+        condition: service_healthy
+
+volumes:
+  meili_data:

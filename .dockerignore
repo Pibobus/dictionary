@@ -1,0 +1,15 @@
+.venv
+.idea
+__pycache__
+meili_data
+meili_test
+maili_test
+meilisearch/
+*.ipynb
+.git
+.gitignore
+llm_search_logs.jsonl
+docker
+docker-compose.yml
+supervisord.conf
+scripts/

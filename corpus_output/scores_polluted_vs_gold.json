@@ -1,0 +1,25 @@
+{
+  "input": "D:\\Programming projects\\diplom\\corpus_output\\merged_for_scoring.csv",
+  "rows_used": 203,
+  "rows_skipped_incomplete": 0,
+  "source_column": "polluted_text",
+  "reference_column": "clean_text_en",
+  "comet_model": "Unbabel/wmt22-comet-da",
+  "bleurt_config": "default (bleurt-base-128)",
+  "systems": {
+    "polluted_text_en": {
+      "comet_mean": 0.8366003256713228,
+      "comet_std": 0.04681759705651569,
+      "comet_system": 0.8366003256713228,
+      "bleurt_mean": 0.3544818743366032,
+      "bleurt_std": 0.23738050515354236
+    },
+    "polluted_text_en_rag": {
+      "comet_mean": 0.8403234842962819,
+      "comet_std": 0.04548657343379048,
+      "comet_system": 0.8403234842962819,
+      "bleurt_mean": 0.3796510172851861,
+      "bleurt_std": 0.2415770163588885
+    }
+  }
+}

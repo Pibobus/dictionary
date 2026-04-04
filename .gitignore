@@ -1,0 +1,7 @@
+.venv
+.idea
+meili_data
+output/
+*.jsonl
+__pycache__/
+.cursor
